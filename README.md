@@ -1,1 +1,1 @@
-# CS24400-Projects
+# CSC24400-Projects
