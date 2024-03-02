@@ -1,1 +1,1 @@
-### A maze solving algorithm using recursive backtracking
+# A maze solving algorithm using recursive backtracking
